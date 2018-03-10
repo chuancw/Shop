@@ -1,0 +1,8 @@
+com\wshop\service\impl\PictureServiceImpl.class
+com\wshop\service\impl\ContentServiceImpl.class
+com\wshop\service\ItemService.class
+com\wshop\service\ItemCatService.class
+com\wshop\service\impl\ItemServiceImpl.class
+com\wshop\service\impl\ItemCatServiceImpl.class
+com\wshop\service\ContentService.class
+com\wshop\service\PictureService.class
